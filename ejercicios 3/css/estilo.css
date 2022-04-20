@@ -14,7 +14,9 @@ h2 {
 #cabecera {
     height: 60px;
     background-color: lightgoldenrodyellow;
-    border: white solid 7px;
+    border-top: white solid 7px;
+    border-left: white solid 7px;
+    border-right: white solid 7px;
     text-align: center;
 }
 
@@ -22,4 +24,22 @@ h2 {
     border: black solid 2px;
     width: 1000px;
     margin: auto;
+}
+
+ul li {
+    display: inline;
+    margin: 0 8px;
+}
+
+li:hover {
+    background-color: lightgoldenrodyellow;
+    padding: 15px 20px;
+}
+
+nav {
+    background-color: rgb(212, 212, 212);
+    width: 988px;
+    position: relative;
+    left: 5px;
+    height: 30px;
 }
