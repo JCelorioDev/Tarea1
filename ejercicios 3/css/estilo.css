@@ -23,6 +23,7 @@ h2 {
 #agrupar {
     border: black solid 2px;
     width: 1000px;
+    height: 300px;
     margin: auto;
 }
 
@@ -42,4 +43,19 @@ nav {
     position: relative;
     left: 5px;
     height: 30px;
+}
+
+#pie {
+    background-color: gray;
+    text-align: center;
+    height: 50px;
+    width: 988px;
+    position: relative;
+    left: 5px;
+    top: 130px;
+}
+
+.pie__h4 {
+    position: relative;
+    top: 20px;
 }
