@@ -52,10 +52,26 @@ nav {
     width: 988px;
     position: relative;
     left: 5px;
-    top: 130px;
+    top: 90px;
 }
 
 .pie__h4 {
     position: relative;
     top: 20px;
+}
+
+section {
+    background-color: rgb(141, 141, 141);
+    width: 650px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.Caja {
+    background-color: rgb(180, 180, 180);
+    width: 230px;
+    height: 40px;
+    position: relative;
+    left: 750px;
 }
