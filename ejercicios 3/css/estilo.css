@@ -109,6 +109,11 @@ section p{
     top: -180px;
 }
 
+.seccion__goku:hover{
+    opacity: 70%;
+    transition: 400ms;
+}
+
 .Caja {
     background-color: rgb(180, 180, 180);
     width: 230px;
