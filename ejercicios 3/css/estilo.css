@@ -75,3 +75,8 @@ section {
     position: relative;
     left: 750px;
 }
+
+header h1{
+    position: relative;
+    top: 18px;
+}
