@@ -24,7 +24,7 @@ h2 {
     border: black solid 2px;
     width: 1000px;
     height: 300px;
-    margin: auto;
+    margin: 20px auto;
 }
 
 ul li {
@@ -78,6 +78,7 @@ section {
 
 header h1{
     position: relative;
-    top: 18px;
+    top: 12px;
     font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
 }
