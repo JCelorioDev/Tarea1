@@ -52,7 +52,7 @@ nav {
     width: 988px;
     position: relative;
     left: 5px;
-    top: 15px;
+    top: 27px;
 }
 
 .pie__h4 {
@@ -79,9 +79,10 @@ section p{
 .Caja {
     background-color: rgb(180, 180, 180);
     width: 230px;
-    height: 40px;
+    height: 30px;
     position: relative;
     left: 750px;
+    top: -88px;
 }
 
 header h1{
