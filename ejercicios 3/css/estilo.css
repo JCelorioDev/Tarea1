@@ -30,6 +30,7 @@ h2 {
 ul li {
     display: inline;
     margin: 0 8px;
+    font-family: 'Rubik Mono One', sans-serif;
 }
 
 li:hover {
