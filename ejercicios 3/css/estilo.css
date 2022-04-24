@@ -23,7 +23,7 @@ h2 {
 #agrupar {
     border: black solid 2px;
     width: 1000px;
-    height: 300px;
+    height: 350px;
     margin: 20px auto;
 }
 
@@ -52,7 +52,7 @@ nav {
     width: 988px;
     position: relative;
     left: 5px;
-    top: 90px;
+    top: 15px;
 }
 
 .pie__h4 {
@@ -68,6 +68,12 @@ section {
     position: relative;
     top: 20px;
     left: 20px;
+}
+
+section p{
+    font-family: 'Rubik Glitch', cursive;
+    color: rgb(255, 247, 0);
+    text-shadow: 5px 5px 10px rgb(0, 0, 0);
 }
 
 .Caja {
