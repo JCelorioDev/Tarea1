@@ -27,15 +27,37 @@ h2 {
     margin: 20px auto;
 }
 
+.menu__principal::after{
+    content: "\1F525";
+    margin: 0 5px;
+}
+
+.menu__fotos::after{
+    content: "\1F648";	
+    margin: 0 5px;
+}
+
+.menu__videos::after{
+    content: "\25B6";	
+    margin: 0 5px;
+    color: rgb(190, 168, 1);
+}
+
+.menu__contactos::after{
+    content: "\1F680";
+    margin: 0 5px;
+}
+
 ul li {
     display: inline;
-    margin: 0 8px;
+    margin: 0 3px;
     font-family: 'Rubik Mono One', sans-serif;
 }
 
 li:hover {
-    background-color: lightgoldenrodyellow;
-    padding: 15px 20px;
+    background-color: lightcoral;
+    padding: 5px 20px;
+
 }
 
 nav {
